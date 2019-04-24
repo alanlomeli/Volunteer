@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/cuenta"
+    android:id="@+id/m_cuenta"
+    android:icon="@drawable/ic_cuenta"/>
+
+    <item android:title="@string/evento"
+        android:id="@+id/m_evento"
+        android:icon="@drawable/ic_evento"/>
+
+
+</menu>
