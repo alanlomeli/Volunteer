@@ -1,9 +1,10 @@
 package com.alanlomeli.volunteer;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class activity_RegistroVoluntario extends AppCompatActivity {
 
@@ -18,7 +19,7 @@ public class activity_RegistroVoluntario extends AppCompatActivity {
 
         spinnerDia=(Spinner)findViewById(R.id.spnDia);
         spinnerMes=(Spinner)findViewById(R.id.spnMes);
-        spinnerCiudad=(Spinner) findViewById(R.id.spnCiudad)
+        spinnerCiudad=(Spinner) findViewById(R.id.spnCiudad);
 
         String[] meses={"Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"};
         //Agregando el arreglo a los Spinner

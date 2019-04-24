@@ -5,4 +5,22 @@
     <string name="intpsw">Contraseña</string>
     <string name="int_psw">Introduce tu contraseña</string>
     <string name="txtBtn">LOGIN</string>
+    <string name="RegistroVol">REGISTRO</string>
+    <string name="registrarfab">REGISTRATE CON FACEBOOK</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="fecha">Fecha de</string>
+    <string name="ano">Año</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="Tipocuenta">Tipo de cuenta</string>
+    <string name="voluntario">Voluntario</string>
+    <string name="Organiza">Organización</string>
+    <string name="Sponsor">Sponsor</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="txtBtnsing">SIGN UP</string>
+    <string name="Registro">REGISTRO</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="evento">Evento</string>
 </resources>
