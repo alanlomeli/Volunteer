@@ -1,16 +1,17 @@
-package com.alanlomeli.volunteer;
+package com.alanlomeli.volunteer.Adapters;
 
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.alanlomeli.volunteer.R;
 
-public class InicioSesion extends AppCompatActivity {
-//nito
+public class fichasEventos extends AppCompatActivity {
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_inicio_sesion);
+        setContentView(R.layout.activity_fichas_eventos);
     }
 }
