@@ -103,6 +103,7 @@
             android:ems="10"
             android:hint="@string/contrasena"
             android:layout_margin="10dp"
+            android:inputType="textPassword"
             />
 
         <TextView
