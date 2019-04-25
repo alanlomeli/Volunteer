@@ -23,8 +23,8 @@
     <string name="Registro">REGISTRO</string>
     <string name="cuenta">Cuenta</string>
     <string name="evento">Evento</string>
-    <string name="Puntaje">Puntaje:ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssffffffffffffffffffffffffffffffffffff</string>
-    <string name="Usuario">Usuario:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssss</string>
-    <string name="Descripcion">Descripción:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</string>
-    <string name="Ciudad">Ciudad:hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddddddhjsssssssssssssssssss</string>
+    <string name="Puntaje">Puntaje:</string>
+    <string name="Usuario">Usuario:</string>
+    <string name="Descripcion">Descripción:</string>
+    <string name="Ciudad">Ciudad:</string>
 </resources>
