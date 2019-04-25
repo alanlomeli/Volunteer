@@ -33,6 +33,6 @@ public class activity_RegistroVoluntario extends AppCompatActivity {
         String[] ciudades={"Guadalajara", "Culiacan", "Monterrey", "Tijuana", "Cancun", "CDMX", "Mexicalli", "Tepic", "Merida", "Torreon"};
         //Agregando el arreglo a los Spinner
         ArrayAdapter<String> adapterciudad =new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, ciudades);
-        spinnerMes.setAdapter(adapterciudad);
+        spinnerCiudad.setAdapter(adapterciudad);
     }
 }
