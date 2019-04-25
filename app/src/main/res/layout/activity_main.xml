@@ -11,9 +11,9 @@
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bn_view"
         android:layout_gravity="bottom"
-        android:background="@color/colorAccent"
+        android:background="#009688"
         app:menu="@menu/menu_bn"
-        app:itemTextColor="@color/colorPrimary"
+        app:itemTextColor="#FFFFFF"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 

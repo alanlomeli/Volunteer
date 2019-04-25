@@ -26,7 +26,7 @@ public class CuentaFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         //VISTA DE CUENTA
-        //View view = inflater.inflate(R.layout.)
-        return super.onCreateView(inflater, container, savedInstanceState);
+        View view = inflater.inflate(R.layout.cuenta_fragment_recycle, container, false);
+        return view;
     }
 }
