@@ -1,6 +1,7 @@
 package com.alanlomeli.volunteer;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
@@ -35,4 +36,7 @@ public class activity_RegistroVoluntario extends AppCompatActivity {
         ArrayAdapter<String> adapterciudad =new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, ciudades);
         spinnerCiudad.setAdapter(adapterciudad);
     }
+
+
+
 }

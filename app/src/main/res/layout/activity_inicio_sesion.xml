@@ -87,7 +87,8 @@
             android:textColor="#FFFF"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="10dp"
-            android:text="@string/txtBtnsing" />
+            android:text="@string/txtBtnsing"
+            />
 
         <Button
             android:id="@+id/btnLogin"
